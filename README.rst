@@ -147,6 +147,7 @@ If you want to customize the formats, you have to specify ``name``,
                ],
             },
          ]
+    }
 
 
 Encoding Backends
